@@ -1,5 +1,6 @@
 # Olá! Eu sou o Fransérgio Mota! 👨‍💻
-## Bem vindo ao meu perfil GitHub 👋
+
+<h3>Bem vindo ao meu perfil GitHub👋</h3> 
 
 ### Sou desenvolvedor FullStack de Franca, São Paulo.
 
@@ -79,7 +80,8 @@
   <a href="https://www.linkedin.com/in/fransergiomota/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fransergiomota/)
+  <a href="https://www.instagram.com/fransergiomota/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
 
