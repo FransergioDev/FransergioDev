@@ -1,89 +1,84 @@
-# Olá! Eu sou o Fransérgio Mota! 👨‍💻
+<h1 align="left">Olá! Eu sou o Fransérgio Mota! 👨‍💻</h1>
 
-<h3>Bem vindo ao meu perfil GitHub👋</h3> 
+###
 
-### Sou desenvolvedor FullStack de Franca, São Paulo.
+<h3 align="left">Bem vindo ao meu perfil GitHub👋</h3>
 
+###
 
-<br>
+<h5 align="left">Sou desenvolvedor FullStack de Franca, São Paulo.</h5>
 
-<!--
-[![Blog](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://fransergiomota.com.br)](https://fransergiomota.com.br)-->
+###
 
-<div style="display: flex;flex-direction: row">
-  <a href="https://github.com/FransergioDev">
+<p align="left">Sou desenvolvedor há mais de 7 anos no mercado,<br>começando por estagiário atuando principalmente<br>como Full Stack em paralelo de atendimento ao<br>cliente. Atualmente atuo como freelancer e analista<br>desenvolvedor | sócio proprietário da Sikoni<br>Tecnologia. Minha especialidade inclui as tecnologias<br>NodeJS, React, Angular, Unity e Java.</p>
 
-  ![FransergioDev GitHub stats](https://github-readme-stats.vercel.app/api?username=FransergioDev&show_icons=true&theme=dracula&count_private=true)
+###
 
-  ![FransergioDev GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FransergioDev&layout=compact&langs_count=7&theme=dracula)
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FransergioDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FransergioDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Ferramentas e Tecnologias
+###
 
-<div style="display: flex;flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: baseline">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="35" style="margin-right:0.5em"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="35" style="margin-right:0.5em"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="35" style="margin-right:0.5em"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="35" style="margin-right:0.5em"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="35" style="margin-right:0.5em"/>
-          
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="35" style="margin-right:0.5em"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="35" style="margin-right:0.5em" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="35" style="margin-right:0.5em"/>
-          
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" width="35" style="margin-right:0.5em"/>
-    
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="35" style="margin-right:0.5em"/>
-
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" style="margin-right:0.5em"/>
-          
-                  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" style="margin-right:0.5em"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" style="margin-right:0.5em"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gatsby" height="30" alt="gatsby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
 </div>
-<br/>
+
+###
 
 ### Entre em contato:
-
-<div style="display:flex; flex-direction: row; widht:100%"> 
+<div align="left">
   <a href="https://fransergiomota.com.br"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="mailto:fransergio.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fransergiomota/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fransergiodev/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/fransergiodev" target="_blank">
-  <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+    <a href="mailto:fransergio.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/fransergiomota/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/fransergiodev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://linktr.ee/fransergiodev" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FransergioDev/FransergioDev/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <!--
 **FransergioDev/FransergioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
