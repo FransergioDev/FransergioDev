@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor há mais de 7 anos no mercado,<br>começando por estagiário atuando principalmente<br>como Full Stack em paralelo de atendimento ao<br>cliente. Atualmente atuo como freelancer e analista<br>desenvolvedor | sócio proprietário da Sikoni<br>Tecnologia. Minha especialidade inclui as tecnologias<br>NodeJS, Typescript, React, Angular, Unity e Java.</p>
+<p align="left">Sou desenvolvedor há mais de 7 anos no mercado,<br>começando por estagiário atuando principalmente<br>como Full Stack em paralelo de atendimento ao<br>cliente. Atualmente atuo como freelancer e analista<br>desenvolvedor | sócio proprietário da Sikoni<br>Tecnologia. Minha especialidade inclui as tecnologias<br>NodeJS, Typescript, React, Angular e Java.</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 </div>
 
-### Outras tecnologias que conheço ou que já trabalhei
+### Tecnologias que conheço ou que já trabalhei
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
   <img width="12" />
@@ -72,22 +72,26 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gatsby" height="30" alt="gatsby logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
+
 
 </div>
+
+### Outras tecnologias que conheço por hobby ou que utilizei em pequenos projetos
+<div>
+  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gatsby" height="30" alt="gatsby logo"  />
+</div>
+
 
 ### Entre em contato:
 <div align="left">
