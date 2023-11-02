@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left">Sou desenvolvedor há mais de 7 anos no mercado,como Full Stack Developer.<br> Atualmente atuo como Full Stack Developer na Codebit, como analista desenvolvedor | sócio proprietário da Sikoni Tecnologia e como freelancer. <br>Minha especialidade inclui as tecnologias: Javascript, Typescript, NodeJS, React, Angular e Java.</p>
+<p align="left">Sou desenvolvedor há mais de 7 anos no mercado,como Full Stack Developer.<br> Atualmente atuo como Full Stack Developer na Codebit, como desenvolvedor<br> e sócio proprietário da Sikoni Tecnologia, além de atuar como freelancer. <br><br>Minha especialidade são as técnologias: Javascript, Typescript, NodeJS, React, Angular.<br>
+Com conhecimento em Java, Python, PHP e C#</p>
 
 ###
 
