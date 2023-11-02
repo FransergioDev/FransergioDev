@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor há mais de 7 anos no mercado,<br>começando por estagiário atuando principalmente<br>como Full Stack em paralelo de atendimento ao<br>cliente. Atualmente atuo como freelancer e analista<br>desenvolvedor | sócio proprietário da Sikoni<br>Tecnologia. Minha especialidade inclui as tecnologias<br>NodeJS, Typescript, React, Angular e Java.</p>
+<p align="left">Sou desenvolvedor há mais de 7 anos no mercado,como Full Stack Developer.<br> Atualmente atuo como Full Stack Developer na Codebit, como analista desenvolvedor | sócio proprietário da Sikoni Tecnologia e como freelancer. <br>Minha especialidade inclui as tecnologias: Javascript, Typescript, NodeJS, React, Angular e Java.</p>
 
 ###
 
@@ -60,13 +60,15 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=adonis" height="30" alt="adonis logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipse logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img width="12" />
@@ -75,6 +77,8 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
 
@@ -89,7 +93,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gatsby" height="30" alt="gatsby logo"  />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
 </div>
 
 
