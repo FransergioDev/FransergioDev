@@ -127,15 +127,19 @@ Também tenho conhecimentos de em outras linguagens, como Java e Python, juntame
 ### Entre em contato:
 <div align="left">
   <a href="https://fransergiomota.com.br">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt=""></a>
-    <a href="mailto:fransergio.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt=""></a>
-    <a href="https://www.linkedin.com/in/fransergiomota/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt=""></a>
-    <a href="https://www.instagram.com/fransergiodev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt=""></a>
-    <a href="https://linktr.ee/fransergiodev" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" alt=""></a>
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
+  <a href="https://www.fransergiomota.com.br/bio">
+    <img src="https://img.shields.io/badge/bio-2E4272?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
+  <a href="mailto:contatov@fransergiomota.com.br">
+    <img src="https://img.shields.io/badge/Email-W7387?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
+  <a href="mailto:fransergio.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
+  <a href="https://www.linkedin.com/in/fransergiomota/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&?logo=&logoColor=white" target="_blank" alt=""></a>
+  <a href="https://www.instagram.com/fransergiodev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
+  <a href="https://linktr.ee/fransergiodev" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-2D882D?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
 </div>
 
 ###
