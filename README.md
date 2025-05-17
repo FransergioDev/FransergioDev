@@ -138,8 +138,6 @@ Também tenho conhecimentos de em outras linguagens, como Java e Python, juntame
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&?logo=&logoColor=white" target="_blank" alt=""></a>
   <a href="https://www.instagram.com/fransergiodev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
-  <a href="https://linktr.ee/fransergiodev" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-2D882D?style=for-the-badge&logo=&logoColor=white" target="_blank" alt=""></a>
 </div>
 
 ###
