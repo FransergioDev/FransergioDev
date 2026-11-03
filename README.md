@@ -20,11 +20,37 @@ Também tenho conhecimentos de em outras linguagens, como Java e Python, juntame
 ###
 
 
-<div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FransergioDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FransergioDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    
-</div>
+<div data-importer="stats" align="left">
+
+
+<h4 align="left">Estatísticas do GitHub</h4>
+
+<table align="left" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FransergioDev&theme=dark" height="240" align="middle" alt="Total de commits, stars, PRs, issues e contribuições" />
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FransergioDev&theme=dark" height="254" alt="Top linguagens por repositório" />
+      <br />
+    </td>
+  </tr>
+  <!-- <tr>
+  <td align="left" valign="middle">
+      <strong>Core</strong><br />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <!-- Rust (em breve)
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      --
+      <br /><br />
+      <strong>Secundárias</strong><br />
+      <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+    </td>
+  </tr> -->
+</table>
 
 ###
 
