@@ -51,6 +51,7 @@ Também tenho conhecimentos de em outras linguagens, como Java e Python, juntame
     </td>
   </tr> -->
 </table>
+</div>
 
 ###
 
