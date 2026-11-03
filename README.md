@@ -21,20 +21,13 @@ Também tenho conhecimentos de em outras linguagens, como Java e Python, juntame
 
 
 <div data-importer="stats" align="left">
-
-
 <h4 align="left">Estatísticas do GitHub</h4>
+<div class="display: flex;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FransergioDev&theme=dark" height="250" alt="Total de commits, stars, PRs, issues e contribuições" />
 
-<table align="left" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FransergioDev&theme=dark" height="240" align="middle" alt="Total de commits, stars, PRs, issues e contribuições" />
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FransergioDev&theme=dark" height="254" alt="Top linguagens por repositório" />
-      <br />
-    </td>
-  </tr>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FransergioDev&theme=dark" height="250" alt="Top linguagens por repositório" />
+  <br />
+</div>
   <!-- <tr>
   <td align="left" valign="middle">
       <strong>Core</strong><br />
@@ -50,7 +43,6 @@ Também tenho conhecimentos de em outras linguagens, como Java e Python, juntame
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
     </td>
   </tr> -->
-</table>
 </div>
 
 ###
